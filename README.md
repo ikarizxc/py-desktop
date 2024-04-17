@@ -57,3 +57,8 @@
     }
 }
 ```
+
+### Пример работы программы:
+
+![image](https://github.com/ikarizxc/py-desktop/assets/114616603/9b0db4eb-05bd-4f7b-be69-700401947bfd)
+
